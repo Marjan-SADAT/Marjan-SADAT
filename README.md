@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Marjan! 👋
 
-<!--
-**Marjan-SADAT/Marjan-SADAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 I'm at the beginning of my Web Development journey.
+- 💡 I'm curious about how technology works and how websites are built.
+- 🎨 I enjoy exploring creative ideas and learning how to turn them into digital experiences.
+- 📚 I'm always eager to learn, practice, and improve my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+
+🚀 My Vision & Goals
+
+My vision is to become a developer who combines creativity with technical skills to build meaningful digital experiences. I aspire to create innovative web solutions, turn ideas into reality, and develop projects that make a positive difference in people's lives.
+
+✨ Thank you for visiting my profile!
