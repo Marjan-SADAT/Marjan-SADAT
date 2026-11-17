@@ -6,13 +6,13 @@ About Me :
 - I'm curious about how technology works and how websites are built.
 - I enjoy exploring creative ideas and learning how to turn them into digital experiences.
 - I'm always eager to learn, practice, and improve my knowledge.
-- 
+
 
 Technologies I'm Learning :
 - HTML
 - CSS
 - JavaScript
-- 
+  
 
 My Vision & Goals :
 
